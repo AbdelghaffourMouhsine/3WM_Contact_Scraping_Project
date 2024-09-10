@@ -1,0 +1,58 @@
+url,error_message
+https://www.lefigaro.fr/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://ar.hibapress.com/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://www.lemonde.fr/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> tuple index out of range"
+https://menara.ma/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://menara.ma/qui-sommes-nous)
+(select contact with = ('/qui-sommes-nous', 'من نحن؟')) =>>> string indices must be integers, not 'str'"
+https://lefaso.net/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://lefaso.net/)
+(select contact with = ('#/', 'Responsabilité')) =>>> string indices must be integers, not 'str'"
+https://www.leconomiste.com/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> tuple index out of range"
+https://www.lavieeco.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://www.lavieeco.com/a-propos-de-la-vie-eco/)
+(select contact with = ('https://www.lavieeco.com/a-propos-de-la-vie-eco/', 'À propos de La Vie éco')) =>>> string indices must be integers, not 'str'"
+https://lobservateur.info/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> tuple index out of range"
+https://madame.lefigaro.fr/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://madame.lefigaro.fr/contacts)
+(select contact with = ('http://madame.lefigaro.fr/contacts', 'Contacts')) =>>> string indices must be integers, not 'str'"
+http://aniamey.com/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> tuple index out of range"
+https://www.hibasport.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://www.hibasport.com/#google_vignette)
+(select contact with = ('https://www.hibasport.com/team.html', 'فريق العمل')) =>>> string indices must be integers, not 'str'"
+https://www.marocecho.com/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://www.yabiladi.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://www.yabiladi.com/)
+(select contact with = ('https://pub.yabiladi.com/', 'Publicité')) =>>> string indices must be integers, not 'str'"
+https://www.alarabiya.net/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://www.alarabiya.net/tools/mrss)
+(select contact with = ('/tools/contact-us', 'اتصل بنا')) =>>> cannot access local variable 'mode' where it is not associated with a value"
+https://www.aeronautique.ma/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://www.aeronautique.ma/Aeronautique-ma-Qui-sommes-nous_a4844.html)
+(select contact with = ('/Aeronautique-ma-Qui-sommes-nous_a4844.html', 'Qui sommes-nous ?')) =>>> string indices must be integers, not 'str'"
+https://febrayer.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://febrayer.com/category/%d8%a7%d8%b9%d9%85%d8%af%d8%a9)
+(select contact with = ('https://febrayer.com/category/offres-demploi-maroc', 'فرص عمل')) =>>> cannot access local variable 'mode' where it is not associated with a value"
+https://febrayer.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://febrayer.com/category/%d8%a7%d8%b9%d9%85%d8%af%d8%a9)
+(select contact with = ('https://febrayer.com/category/economie', 'مال و اعمال')) =>>> cannot access local variable 'mode' where it is not associated with a value"
+https://febrayer.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://febrayer.com/category/%d8%a7%d8%b9%d9%85%d8%af%d8%a9)
+(select contact with = ('https://febrayer.com/category/offres-demploi-maroc', 'فرص عمل')) =>>> cannot access local variable 'mode' where it is not associated with a value"
+https://febrayer.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://febrayer.com/category/%d8%a7%d8%b9%d9%85%d8%af%d8%a9)
+(select contact with = ('https://febrayer.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/about-us', 'من نحن')) =>>> cannot access local variable 'mode' where it is not associated with a value"

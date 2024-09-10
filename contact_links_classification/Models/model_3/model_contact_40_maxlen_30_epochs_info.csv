@@ -1,0 +1,33 @@
+﻿training_details
+Époque 1/30 - Train Loss: 0.1462 - Validation Loss: 0.0351 - Validation Accuracy: 0.9900 - Precision: 0.9896 - Recall: 0.9896 - F1 Score: 0.9896
+Époque 2/30 - Train Loss: 0.0376 - Validation Loss: 0.0486 - Validation Accuracy: 0.9859 - Precision: 0.9776 - Recall: 0.9938 - F1 Score: 0.9856
+Époque 3/30 - Train Loss: 0.0244 - Validation Loss: 0.0404 - Validation Accuracy: 0.9910 - Precision: 0.9938 - Recall: 0.9876 - F1 Score: 0.9907
+Époque 4/30 - Train Loss: 0.0222 - Validation Loss: 0.0266 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 5/30 - Train Loss: 0.0185 - Validation Loss: 0.0346 - Validation Accuracy: 0.9920 - Precision: 0.9917 - Recall: 0.9917 - F1 Score: 0.9917
+Époque 6/30 - Train Loss: 0.0131 - Validation Loss: 0.0277 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 7/30 - Train Loss: 0.0086 - Validation Loss: 0.0437 - Validation Accuracy: 0.9920 - Precision: 0.9917 - Recall: 0.9917 - F1 Score: 0.9917
+Époque 8/30 - Train Loss: 0.0093 - Validation Loss: 0.0379 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 9/30 - Train Loss: 0.0081 - Validation Loss: 0.0425 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 10/30 - Train Loss: 0.0103 - Validation Loss: 0.0362 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 11/30 - Train Loss: 0.0077 - Validation Loss: 0.0369 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 12/30 - Train Loss: 0.0082 - Validation Loss: 0.0373 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 13/30 - Train Loss: 0.0087 - Validation Loss: 0.0344 - Validation Accuracy: 0.9960 - Precision: 0.9959 - Recall: 0.9959 - F1 Score: 0.9959
+Époque 14/30 - Train Loss: 0.0121 - Validation Loss: 0.0458 - Validation Accuracy: 0.9920 - Precision: 0.9917 - Recall: 0.9917 - F1 Score: 0.9917
+Époque 15/30 - Train Loss: 0.0106 - Validation Loss: 0.0651 - Validation Accuracy: 0.9849 - Precision: 0.9795 - Recall: 0.9896 - F1 Score: 0.9846
+Époque 16/30 - Train Loss: 0.0122 - Validation Loss: 0.0338 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 17/30 - Train Loss: 0.0098 - Validation Loss: 0.0424 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 18/30 - Train Loss: 0.0079 - Validation Loss: 0.0411 - Validation Accuracy: 0.9930 - Precision: 0.9917 - Recall: 0.9938 - F1 Score: 0.9928
+Époque 19/30 - Train Loss: 0.0069 - Validation Loss: 0.0378 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 20/30 - Train Loss: 0.0066 - Validation Loss: 0.0455 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 21/30 - Train Loss: 0.0067 - Validation Loss: 0.0450 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 22/30 - Train Loss: 0.0067 - Validation Loss: 0.0440 - Validation Accuracy: 0.9930 - Precision: 0.9938 - Recall: 0.9917 - F1 Score: 0.9927
+Époque 23/30 - Train Loss: 0.0089 - Validation Loss: 0.0383 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 24/30 - Train Loss: 0.0065 - Validation Loss: 0.0398 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 25/30 - Train Loss: 0.0067 - Validation Loss: 0.0398 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 26/30 - Train Loss: 0.0067 - Validation Loss: 0.0402 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 27/30 - Train Loss: 0.0066 - Validation Loss: 0.0404 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 28/30 - Train Loss: 0.0066 - Validation Loss: 0.0405 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 29/30 - Train Loss: 0.0065 - Validation Loss: 0.0406 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Époque 30/30 - Train Loss: 0.0065 - Validation Loss: 0.0406 - Validation Accuracy: 0.9940 - Precision: 0.9958 - Recall: 0.9917 - F1 Score: 0.9938
+Fine-tuning terminé! Temps total: 13596.49 secondes | 226.61 min | 3.78 hours
+Modèle enregistré à ./Models/model_3/model_contact_40_maxlen_30_epochs

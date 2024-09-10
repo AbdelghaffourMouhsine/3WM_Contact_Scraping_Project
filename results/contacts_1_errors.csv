@@ -1,0 +1,40 @@
+url,error_message
+https://hespress.com/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://ar.hibapress.com/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://www.goud.ma/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://www.lemonde.fr/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://lematin.ma/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://www.lefigaro.fr/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://www.journaux.ma/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://menara.ma/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://lefaso.net/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://www.leconomiste.com/,"Error :
+==>>>(in: scraping_contact() at ContactScraping)
+==>>> string indices must be integers, not 'str'"
+https://lobservateur.info/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://lobservateur.info/contact)
+(select contact with = ('https://lobservateur.info/lequipe', ""L'équipe"")) =>>> tuple index out of range"
+https://lobservateur.info/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://lobservateur.info/contact)
+(select contact with = ('https://lobservateur.info/lequipe', ""L'équipe"")) =>>> tuple index out of range"
+https://www.lavieeco.com/,"==>>> Error : (in: for contact_link in contact_links:)
+(current_url_contact = https://www.lavieeco.com/a-propos-de-la-vie-eco/)
+(select contact with = ('https://www.lavieeco.com/nous-contacter/', 'Nous Contacter')) =>>> tuple index out of range"

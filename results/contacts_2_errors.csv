@@ -1,0 +1,134 @@
+url,error_message
+https://menara.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.iam.ma/particulier/aide-et-assistance/Mobile/faq.aspx', 'مساعدة') 
+=> base_url == https://menara.ma/"
+https://menara.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('/qui-sommes-nous', 'من نحن؟') 
+=> base_url == https://menara.ma/"
+https://menara.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('/contact', 'اتصل بنا') 
+=> base_url == https://menara.ma/"
+https://www.leconomiste.com/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.ecomedias.ma/', 'Publicité') 
+=> base_url == https://www.leconomiste.com/"
+https://ar.hibapress.com/,"==>>> Error : tuple index out of range 
+=> in for contact_link in contact_links:...
+=>(current_url_contact == None)
+=> (contact_link = ('https://ar.hibapress.com/contact.html', 'اتصل بنا'))"
+https://ar.hibapress.com/,"==>>> Error : in scraping_contact() at ContactScraping
+=> tuple index out of range"
+https://www.lemonde.fr/,"==>>> Warning : Unable to access contact page => contact_link == ('https://mpublicite.fr/', 'M Publicité') 
+=> base_url == https://www.lemonde.fr/"
+https://lefaso.net/,"==>>> Warning : Unable to access contact page => contact_link == ('/spip.php?article29&rubrique17', 'A propos...') 
+=> base_url == https://lefaso.net/"
+https://www.lemonde.fr/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.lemonde.fr/faq/?thematic=contacter', 'Contacter Le Monde') 
+=> base_url == https://www.lemonde.fr/"
+https://lefaso.net/,"==>>> Warning : Unable to access contact page => contact_link == ('#/', 'Responsabilité') 
+=> base_url == https://lefaso.net/"
+https://lobservateur.info/,"==>>> Error : tuple index out of range 
+=> in for contact_link in contact_links:...
+=>(current_url_contact == https://lobservateur.info/contact)
+=> (contact_link = ('https://lobservateur.info/lequipe', ""L'équipe""))"
+https://lobservateur.info/,"==>>> Error : tuple index out of range 
+=> in for contact_link in contact_links:...
+=>(current_url_contact == https://lobservateur.info/contact)
+=> (contact_link = ('https://lobservateur.info/lequipe', ""L'équipe""))"
+https://www.alalam.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.alalam.ma/اتصل-بنا_a8374.html?preview=1', 'اتصل بنا') 
+=> base_url == https://www.alalam.ma/"
+https://www.alalam.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.alalam.ma/للنشر-في-العلم_a8321.html', 'للنشر في العلم') 
+=> base_url == https://www.alalam.ma/"
+https://www.alalam.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.alalam.ma/للإشهار_a8373.html?preview=1', 'للإشهار') 
+=> base_url == https://www.alalam.ma/"
+https://www.alalam.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.alalam.ma/اتصل-بنا_a8374.html?preview=1', 'اتصل بنا') 
+=> base_url == https://www.alalam.ma/"
+https://www.alalam.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.alalam.ma/للنشر-في-العلم_a8321.html', 'للنشر في العلم') 
+=> base_url == https://www.alalam.ma/"
+https://www.alalam.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.alalam.ma/للإشهار_a8373.html?preview=1', 'للإشهار') 
+=> base_url == https://www.alalam.ma/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('https://weblogy.com/nous-contacter', 'Contactez-Nous') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+http://aniamey.com/,"==>>> Error : tuple index out of range 
+=> in for contact_link in contact_links:...
+=>(current_url_contact == None)
+=> (contact_link = ('http://news.aNiamey.com/documents', 'Tous \n\t\t\tnos documents'))"
+http://aniamey.com/,"==>>> Error : in scraping_contact() at ContactScraping
+=> tuple index out of range"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'PUBLICITÉ') 
+=> base_url == https://www.abidjan.net/"
+https://www.abidjan.net/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.weblogymedia.com/sites-en-regie/abidjan-net/', 'Contactez-nous') 
+=> base_url == https://www.abidjan.net/"
+https://www.aeronautique.ma/,"==>>> Warning : Unable to access contact page => contact_link == ('mailto:contact@aeronautique.ma', 'CONTACT') 
+=> base_url == https://www.aeronautique.ma/"
+https://www.yabiladi.com/,"==>>> Warning : Unable to access contact page => contact_link == ('https://pub.yabiladi.com/', 'Publicité') 
+=> base_url == https://www.yabiladi.com/"
+https://febrayer.com/,"==>>> Warning : contact link not found => contact_link == ('https://febrayer.com/category/offres-demploi-maroc', 'فرص عمل') 
+=> base_url == https://febrayer.com/"
+https://febrayer.com/,"==>>> Warning : Unable to access contact page => contact_link == ('https://febrayer.com/category/offres-demploi-maroc', 'فرص عمل') 
+=> base_url == https://febrayer.com/"
+https://febrayer.com/,"==>>> Warning : contact link not found => contact_link == ('https://febrayer.com/category/economie', 'مال و اعمال') 
+=> base_url == https://febrayer.com/"
+https://febrayer.com/,"==>>> Warning : Unable to access contact page => contact_link == ('https://febrayer.com/category/economie', 'مال و اعمال') 
+=> base_url == https://febrayer.com/"
+https://febrayer.com/,"==>>> Warning : contact link not found => contact_link == ('https://febrayer.com/category/offres-demploi-maroc', 'فرص عمل') 
+=> base_url == https://febrayer.com/"
+https://febrayer.com/,"==>>> Warning : Unable to access contact page => contact_link == ('https://febrayer.com/category/offres-demploi-maroc', 'فرص عمل') 
+=> base_url == https://febrayer.com/"
+https://burkina24.com/,"==>>> Warning : Unable to access contact page => contact_link == ('http://www.burkina24.com/contactez-nous', 'Contact') 
+=> base_url == https://burkina24.com/"
+https://febrayer.com/,"==>>> Warning : contact link not found => contact_link == ('https://febrayer.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/about-us', 'من نحن') 
+=> base_url == https://febrayer.com/"
+https://febrayer.com/,"==>>> Warning : Unable to access contact page => contact_link == ('https://febrayer.com/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/about-us', 'من نحن') 
+=> base_url == https://febrayer.com/"
+https://burkina24.com/,"==>>> Warning : Unable to access contact page => contact_link == ('http://162.241.218.157:2095/', 'Webmail') 
+=> base_url == https://burkina24.com/"
+https://econostrum.info/,"==>>> Warning : Unable to access contact page => contact_link == ('https://econostrum.info/redaction/', 'La rédaction') 
+=> base_url == https://econostrum.info/"
+https://econostrum.info/,"==>>> Warning : Unable to access contact page => contact_link == ('https://econostrum.info/publicite/', 'Publicité') 
+=> base_url == https://econostrum.info/"
+https://econostrum.info/,"==>>> Warning : Unable to access contact page => contact_link == ('https://econostrum.info/a-propos/', 'Qui sommes-nous ?') 
+=> base_url == https://econostrum.info/"
+https://econostrum.info/,"==>>> Warning : Unable to access contact page => contact_link == ('https://econostrum.info/contact/', 'Contactez-nous') 
+=> base_url == https://econostrum.info/"
+https://econostrum.info/,"==>>> Warning : Unable to access contact page => contact_link == ('https://econostrum.info/contact/', 'Contactez-nous') 
+=> base_url == https://econostrum.info/"
+https://www.koaci.com/,"==>>> Error : tuple index out of range 
+=> in for contact_link in contact_links:...
+=>(current_url_contact == https://www.koaci.com/#google_vignette)
+=> (contact_link = ('https://www.koaci.com/aide.html', ""Besoin d'aide ?""))"
+https://www.leral.net/,"==>>> Warning : Unable to access contact page => contact_link == ('tel:++221 78 019 69 69 ( Rédaction)', 'Contact Leral') 
+=> base_url == https://www.leral.net/"
+https://www.webmanagercenter.com/,"==>>> Warning : Unable to access contact page => contact_link == ('mailto:img@planet.tn', 'CONTACT') 
+=> base_url == https://www.webmanagercenter.com/"
+https://www.webmanagercenter.com/,"==>>> Warning : Unable to access contact page => contact_link == ('mailto:img@planet.tn', 'Contact') 
+=> base_url == https://www.webmanagercenter.com/"
+https://www.usinenouvelle.com/,"==>>> Error : tuple index out of range 
+=> in for contact_link in contact_links:...
+=>(current_url_contact == https://www.usinenouvelle.com/les-rendez-vous-de-la-redaction/)
+=> (contact_link = ('/contact', ""Besoin d'aide ?""))"
+https://www.agenceecofin.com/,"==>>> Error : tuple index out of range 
+=> in for contact_link in contact_links:...
+=>(current_url_contact == https://www.agenceecofin.com/equipe)
+=> (contact_link = ('/equipe', ""L'équipe""))"
+https://www.usinenouvelle.com/,"==>>> Warning : Unable to access contact page => contact_link == ('https://www.infopro-digital-media.fr/marque/usine-nouvelle/', 'Publicité') 
+=> base_url == https://www.usinenouvelle.com/"
+https://fr.le360.ma/,"==>>> Error : emails 
+=> in extract_contact_information() at ContactProcessing
+=> (current_link = https://fr.le360.ma/)"
